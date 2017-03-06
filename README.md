@@ -1,11 +1,10 @@
-MyBatis JPetStore
-=================
 
 Project Description: Deployed JPetStore, a full-fledged web application on Microsoft Azure Cloud Platform. Explored and analyzed different deployment strategies before deploying it as a cloud service. Did end-to-end performance testing of the app using Apache JMeter. Discovered cloud provisioning strategies that increased the availability, consistency and throughput of the application.
 
 The detailed report regarding the tests that were carried out is at: krishna1madhur/jpetstore-6/Report.pdf 
 
-
+MyBatis JPetStore
+=================
 
 [![Build Status](https://travis-ci.org/mybatis/jpetstore-6.svg?branch=master)](https://travis-ci.org/mybatis/jpetstore-6)
 [![Coverage Status](https://coveralls.io/repos/github/mybatis/jpetstore-6/badge.svg?branch=master)](https://coveralls.io/github/mybatis/jpetstore-6?branch=master)
